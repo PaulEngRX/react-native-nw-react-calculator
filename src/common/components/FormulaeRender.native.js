@@ -29,13 +29,13 @@ var getFormulaStyles = function(operator) {
       marginLeft: 10
     },
     add: {
-      backgroundColor: '#fb96cf'
+      backgroundColor: '#ff9999'
     },
     substract: {
-      backgroundColor: '#fcb064'
+      backgroundColor: '#0066cc'
     },
     multiply: {
-      backgroundColor: '#68cef1'
+      backgroundColor: '#009900'
     },
     divide: {
       backgroundColor: '#cb7dc9'

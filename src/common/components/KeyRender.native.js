@@ -58,11 +58,11 @@ var getOperatorStyles = function(classOperation) {
       paddingBottom: 3
     },
     substract: {
-      backgroundColor: '#fcb064',
+      backgroundColor: '#0066cc',
       paddingBottom: 3
     },
     multiply: {
-      backgroundColor: '#68cef1',
+      backgroundColor: '#009900',
       paddingBottom: 3
     },
     divide: {
