@@ -54,7 +54,7 @@ var getOperatorStyles = function(classOperation) {
       justifyContent: 'center'
     },
     add: {
-      backgroundColor: '#fb96cf',
+      backgroundColor: '#ff9999',
       paddingBottom: 3
     },
     substract: {

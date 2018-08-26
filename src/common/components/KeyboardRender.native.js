@@ -27,21 +27,24 @@ export default function () {
         <Key keyType='number' keyValue='9' keySymbol='9' />
       </View>
       <View style={styles.row}>
-        <Key keyType='number' keyValue='+-' keySymbol='+/-' />
         <Key keyType='number' keyValue='0' keySymbol='0' />
         <Key keyType='number' keyValue='.' keySymbol='.' />
+        <Key keyType='number' keyValue='+/-' keySymbol='+/-' />
       </View>
 
       <View style={styles.row}>
-        <Key keyType='operator' keyValue='divide' keySymbol='÷' />
-        <Key keyType='operator' keyValue='substract' keySymbol='-' />
         <Key keyType='operator' keyValue='add' keySymbol='+' />
+
+        <Key keyType='operator' keyValue='substract' keySymbol='-' />
+
         <Key keyType='operator' keyValue='multiply' keySymbol='x' />
+
+        <Key keyType='operator' keyValue='divide' keySymbol='÷' />
       </View>
 
       <View style={styles.row}>
-        <Key keyType='action' keyValue='back' keySymbol='<<' />
-        <Key keyType='action' keyValue='equal' keySymbol='=' />
+        <Key keyType='action' keyValue='back' keySymbol='Del' />
+        <Key keyType='action' keyValue='equal' keySymbol='Ans' />
       </View>
 
     </View>
