@@ -27,7 +27,7 @@ export default function () {
         <Key keyType='number' keyValue='3' keySymbol='3' />
       </View>
       <View style={styles.row}>
-        <Key keyType='number' keyValue='0' keySymbol='0' />
+        <Key keyType='number' keyValue='1' keySymbol='1' />
         <Key keyType='number' keyValue='.' keySymbol='.' />
         <Key keyType='number' keyValue='+/-' keySymbol='+/-' />
       </View>
