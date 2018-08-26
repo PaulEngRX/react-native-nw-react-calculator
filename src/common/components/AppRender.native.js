@@ -35,14 +35,14 @@ var styles = StyleSheet.create({
     flexDirection: 'row',
     alignItems: Platform.OS === 'android' ? 'center' : 'flex-end',
     justifyContent: 'flex-end',
-    backgroundColor: '#68cef2',
+    backgroundColor: '#990000',
     padding: 18
   },
   formulae: {
     flex: 1,
     flexDirection: 'row',
     justifyContent: 'flex-end',
-    backgroundColor: '#4c4c4c',
+    backgroundColor: '#a0a0a0',
     padding: 20
   },
   keyboard: {
