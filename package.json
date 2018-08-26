@@ -58,6 +58,9 @@
     "collectCoverage": true
   },
   "dependencies": {
+    "appcenter": "^1.7.1",
+    "appcenter-analytics": "^1.7.1",
+    "appcenter-crashes": "^1.7.1",
     "electron-prebuilt": "^0.37.2",
     "es6-promise": "^3.1.2",
     "events": "^1.1.0",
