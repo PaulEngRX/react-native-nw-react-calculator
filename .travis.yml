@@ -11,3 +11,6 @@ node_js:
   - "5.8.0"
 
 script: npm run travis
+
+after script:
+  - npm run coveralls
