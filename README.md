@@ -1,3 +1,4 @@
+## Forked for scc assignment purposes
 # Mobile, desktop and website Apps with the same codes
 
 [![Build Status](https://travis-ci.org/benoitvallon/react-native-nw-react-calculator.svg?branch=master)](https://travis-ci.org/benoitvallon/react-native-nw-react-calculator) [![Dependency Status](https://david-dm.org/benoitvallon/react-native-nw-react-calculator.svg)](https://david-dm.org/benoitvallon/react-native-nw-react-calculator) [![devDependency Status](https://david-dm.org/benoitvallon/react-native-nw-react-calculator/dev-status.svg)](https://david-dm.org/benoitvallon/react-native-nw-react-calculator#info=devDependencies)
